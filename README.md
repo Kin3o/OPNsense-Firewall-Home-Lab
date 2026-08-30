@@ -1,4 +1,4 @@
-# OPNsense Firewall Home Lab
+# OPNsense Firewall Home Lab CURRENTLY IN PROGRESS!!!
 
 - 01 — [OPNsense Home Lab Overview](https://github.com/Kin3o/OPNsense-Home-Lab-Overview) 
 - 02 — [Network Diagram](https://github.com/Kin3o/Network-Diagram)
