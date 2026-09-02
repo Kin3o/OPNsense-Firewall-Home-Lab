@@ -1,4 +1,4 @@
-# OPNsense Firewall Home Lab CURRENTLY IN PROGRESS!!!
+# OPNsense Firewall Home Lab CURRENTLY IN PROGRESS September 2, 2026!!!
 
 - 01 — [OPNsense Home Lab Overview](https://github.com/Kin3o/OPNsense-Home-Lab-Overview) 
 - 02 — [Network Diagram](https://github.com/Kin3o/Network-Diagram)
